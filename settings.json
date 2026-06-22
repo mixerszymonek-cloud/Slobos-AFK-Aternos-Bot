@@ -8,7 +8,7 @@
   "server": {
     "ip": "boxgg.aternos.me",
     "port": 42265,
-    "version": "",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
